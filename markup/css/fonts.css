@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+    font-family: FreeSet Cyrillic;
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/freeset-cyrillic.eot);
+    src: local(no font available),
+        url(../fonts/freeset-cyrillic.woff) format('woff'),
+        url(../fonts/freeset-cyrillic.ttf) format('truetype'),
+		url(../fonts/freeset-cyrillic.svg) format('svg');
+}
+@font-face {
+    font-family: Room;
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/room.eot);
+	src: local(no font available),
+        url(../fonts/room.woff) format('woff'),
+        url(../fonts/room.ttf) format('truetype'),
+		url(../fonts/room.svg) format('svg');
+}
+@font-face {
+    font-family: Room Black;
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/room-black.eot);
+    src: local(no font available),
+        url(../fonts/room-black.woff) format('woff'),
+        url(../fonts/room-black.ttf) format('truetype'),
+		url(../fonts/room-black.svg) format('svg');
+}
+@font-face {
+    font-family: Room;
+    font-style:normal;
+    font-weight:bold;
+    src: url(../fonts/room.eot);
+    src: local(no font available),
+        url(../fonts/room-bold.woff) format('woff'),
+        url(../fonts/room-bold.ttf) format('truetype'),
+		url(../fonts/room-bold.svg) format('svg');
+}
+@font-face {
+    font-family: Room Light;
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/room.eot);
+    src: local(no font available),
+        url(../fonts/room-light.woff) format('woff'),
+        url(../fonts/room-light.ttf) format('truetype'),
+		url(../fonts/room-light.svg) format('svg');
+}
+@font-face {
+    font-family: Room Medium;
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/room.eot);
+    src: local(no font available),
+        url(../fonts/room-medium.woff) format('woff'),
+        url(../fonts/room-medium.ttf) format('truetype'),
+		url(../fonts/room-medium.svg) format('svg');
+}
+@font-face {
+    font-family: Room Thin;
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/room.eot);
+    src: local(no font available),
+        url(../fonts/room-thin.woff) format('woff'),
+        url(../fonts/room-thin.ttf) format('truetype'),
+		url(../fonts/room-thin.svg) format('svg');
+}
+
